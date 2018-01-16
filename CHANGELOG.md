@@ -1,3 +1,11 @@
+### v0.1 | 01.16.18
+
+_Editor: Jeff Boykin_
+
+- Reorganizing assets
+- Adding updates from DS-NYC
+
+
 ### v0.1 | 09.05.17
 
 _Editor: Sam Stack_
@@ -20,7 +28,7 @@ _Editor: Sam Stack_
 
 _Editor: Sam Stack_
 
-- Added CHANGELOG.md 
+- Added CHANGELOG.md
 
 - Changed `datasets` to `data` in clustering-eval_metrics-lab and updated paths in starter and solution.
 
@@ -32,5 +40,5 @@ _Editor: Sam Stack_
 
 ### v0.0
 
-_Author: Sinan Uozdemir(Lesson), Kiefer Katovich(Lab: Battle of Clusters), 
+_Author: Sinan Uozdemir(Lesson), Kiefer Katovich(Lab: Battle of Clusters),
 	Joseph Nelson(Lab(s): Cluster Evaluation, DBscan, K-Means Clustering), Haley Boyan & Sam Stack(Lab: K-Means Clustering) _
