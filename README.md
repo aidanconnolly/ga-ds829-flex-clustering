@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Clustering
 
-Unit 4 : DS Applications | Flex
+> Unit 4: Flex
 
 ---
 
@@ -13,26 +13,42 @@ Unit 4 : DS Applications | Flex
 | Datasets | Beer nutrition and cost | [Here](./data/beer.txt) |
 | Extra Practice | Four additional labs for practice | [Here](./practice/) |
 
-**Rapid Schedule:** For a half-lesson, consider only covering k-means. If additional time is needed, the k-means metric explanation could be skipped.
-
-This lesson uses a small beer dataset describing beer name, calories, sodium content, alcohol percentage, and cost. This data set is ideal because it is easy to read it all and clusters into identifiable categories.
+> This lesson uses a small beer dataset describing beer name, calories, sodium content, alcohol percentage, and cost. This data set is ideal because it is easy to read it all and clusters into identifiable categories.
 
 ---
 
 ## Learning Objectives
+
+After this lesson, students will be able to:
+
+### Part One: KMeans
 - Determine the difference between supervised and unsupervised learning.
 - Demonstrate how to apply k-means clustering.
+
+### Part Two: DBScan
 - Demonstrate how to apply density-based clustering (DBSCAN).
 - Define the Silhouette Coefficient and explain how it relates to clustering.
 
+---
+
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Define basic principles of supervised learning.
+- Intuit relevant information from k-NN and Voronoi diagrams.
+- Prepare features and create models using scikit-learn.
+- Graph data using Matplotlib.
 
 ---
 
 ## Lesson Outline
+> TOTAL (170 min)
 
-TOTAL (170 min)
+> **Rapid Schedule:** For a half-lesson, consider only covering part one (k-means). If additional time is needed, the k-means metric explanation could be skipped.
 
-RAPID-SCHEDULE (80 min)
+
+### OUTLINE (PART ONE: K-MEANS)
+> Total: 80 min 
 - Unsupervised Learning (15 min)
     - Unsupervised Learning Example: Coin Clustering
     - Common Types of Unsupervised Learning
@@ -45,8 +61,9 @@ RAPID-SCHEDULE (80 min)
     - K-Means Clustering
     - Repeat With Scaled Data
 
----
-OPTIONAL FOR FULL LESSON:
+### OUTLINE (PART TWO: DBScan)
+> Total: 90 min
+
 - DBSCAN: Density-Based Clustering (25 min)
     - Visual Demo
 - DBSCAN Clustering Demo (10 min)
