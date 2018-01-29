@@ -47,7 +47,7 @@ Before this lesson(s), students should already be able to:
 > **Rapid Schedule:** For a half-lesson, consider only covering part one (k-means). If additional time is needed, the k-means metric explanation could be skipped.
 
 
-### OUTLINE (PART ONE: K-MEANS)
+### OUTLINE: PART ONE (K-MEANS)
 > Total: 80 min 
 - Unsupervised Learning (15 min)
     - Unsupervised Learning Example: Coin Clustering
@@ -61,7 +61,7 @@ Before this lesson(s), students should already be able to:
     - K-Means Clustering
     - Repeat With Scaled Data
 
-### OUTLINE (PART TWO: DBScan)
+### OUTLINE: PART TWO (DBScan)
 > Total: 90 min
 
 - DBSCAN: Density-Based Clustering (25 min)
@@ -75,16 +75,6 @@ Before this lesson(s), students should already be able to:
 
 ---
 
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Understand what supervised learning is.
-- Understand k-NN and Voronoi diagrams.
-- Prepare features and create models using scikit-learn.
-- Graph data using Matplotlib.
-
----
 
 ## Additional Resources
 - [Scikit-learn Clustering Methods](http://scikit-learn.org/stable/modules/clustering.html)
