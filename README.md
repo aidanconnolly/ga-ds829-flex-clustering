@@ -8,7 +8,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson |  Intro to clusetering | [Here](./clustering.ipynb) |
+| Lesson |  Intro to clustering | [Here](./clustering.ipynb) |
 | Lesson | Part 2: Overview of K-Means (*Optional*) | [Here](./intro-to-kmeans.ipynb) |
 | Solution  | Part 2: Solution code for questions and exercises | [Here](./solution-code/02_clustering_adv-solution.ipynb) |
 | Datasets | Beer nutrition and cost | [Here](./data/beer.txt) |
