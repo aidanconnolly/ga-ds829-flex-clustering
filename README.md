@@ -8,11 +8,12 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Part 1: Kmeans | [Here](./01_intro-to-kmeans.ipynb) |
-| Lesson | Part 2: Dbscan (*Optional*) | [Here](./02_clustering_adv.ipynb) |
+| Lesson |  Intro to clusetering | [Here](./clustering.ipynb) |
+| Lesson | Part 2: Overview of K-Means (*Optional*) | [Here](./intro-to-kmeans.ipynb) |
 | Solution  | Part 2: Solution code for questions and exercises | [Here](./solution-code/02_clustering_adv-solution.ipynb) |
 | Datasets | Beer nutrition and cost | [Here](./data/beer.txt) |
 | Extra Practice | Four additional labs for practice | [Here](./practice/) |
+| Additional Practice | Additional Clustering exercises | [Here](./practice_2/) |
 
 > This lesson uses a small beer dataset describing beer name, calories, sodium content, alcohol percentage, and cost. This data set is ideal because it is easy to read it all and clusters into identifiable categories.
 
